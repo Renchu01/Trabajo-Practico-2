@@ -11,4 +11,6 @@ public class Librerias
     public string Mail {get; set;}
 
     public string Name {get ;set; }
+
+    public virtual ICollection<Libros> Libros {get; } = new List<Libros>();
 }

@@ -19,5 +19,7 @@ namespace TrabajoPractico2.Data
         public DbSet<Trabajo_Practico_2.Models.Clientes> Clientes { get; set; } = default!;
 
         public DbSet<Trabajo_Practico_2.Models.Librerias> Librerias { get; set; } = default!;
+
+        public DbSet<Trabajo_Practico_2.Models.Paginas> Paginas { get; set; } = default!;
     }
 }

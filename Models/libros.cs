@@ -17,5 +17,10 @@ public decimal Price {get ; set; }
 
 public bool EsUsado {get; set; }
 
+public List<Paginas> Paginas{ get; } = new List<Paginas>();
+
+public int Clientesid {get; set; }
+public virtual Clientes Clientes { get; set; }
+
 
 }
