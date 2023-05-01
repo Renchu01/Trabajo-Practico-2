@@ -9,117 +9,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Trabajo_Practico_2
 build_property.RootNamespace = Trabajo_Practico_2
-build_property.ProjectDir = c:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 2\
+build_property.ProjectDir = C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 2
+build_property.MSBuildProjectDirectory = C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 2
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Create.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Delete.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Details.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Edit.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Index.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Home/Index.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Home/Privacy.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Create.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmVyaWFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Delete.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmVyaWFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Details.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmVyaWFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Edit.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmVyaWFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Index.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Librerias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmVyaWFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Create.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Delete.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Details.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Edit.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Index.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Libros/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Create.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Delete.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Details.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Edit.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Index.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Paginas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnaW5hc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Shared/Error.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/_ViewImports.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/_ViewStart.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Shared/_Layout.cshtml]
+[C:/Users/No usar/Documents/HERRAMIENTAS DE PROGRAMACION/Trabajo Practico 2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ekzjfk2cgx
